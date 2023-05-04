@@ -43,3 +43,72 @@ How methods are going to diff data members of individual objects?
 
 this => this is a variable which points to the obj through which the method is called
 
+
+
+usage of (String[]args):
+
+public static void main(String []args)
+in the above line (String []args) 
+String is data types 
+[] is a array
+args is array name
+with this we can give run time inputs to the code 
+
+
+Inheritance:
+making a use of class which is already created
+
+Types of inheritance:
+
+Terms ->  
+Super class/base class/parent class -> This is a class from which the child will be derived
+Child class -> This is the class which is derived from a parent class which contains all the properties and method of its parents
+
+purpose of inheritance:
+* use of exising features from parents
+* overriding the exixting methods 
+* in addition to parent's method we can add new methods
+
+syntax :
+
+child class extends parent class 
+ex : a extends b => a is parent class , b is child class
+
+
+special keywords:
+
+* this
+* super()
+
+
+
+
+to call the method of its immediate parent we use use super() keyword
+
+Types of inheritance:
+
+
+* single inheritance
+* multilevel inheritance
+* hierarechical inheritance
+* hybrid inheritance
+
+
+interfaces:
+seperate interfaces and implemtation to achieve mutliple inheritance
+
+Polymorphism:
+Types of Polymorphism : static ,dynamic
+
+* function overloading 
+
+static -> if conflict is resolved by compiler then we call it as static polymorphism
+dynamic -> if conflict is resolved during runtime then we call it as dynamic polymorphism
+
+using of the same function name with diff signatures
+
+rules for followed to function overloading
+
+* num of args
+* type of args
+* order in which arguments are passed
