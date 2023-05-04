@@ -1,0 +1,45 @@
+Opps features:
+
+Encapsulation :provides security to the data
+Inheritance : Resuable feature
+Polymorphism : many forms
+
+Encapsulation:-
+Access to members of class can be restricted by access specifires like 
+* Private
+* protected 
+
+
+
+Notes:
+Referance variables must have to be intilize
+Best practice is using of contructers to init values to data members
+By default all attributes and functions have public access
+
+
+
+Contructers:
+
+* contructers are the special methods which have the same class as method name 
+* which are used to intit values to data members
+* these methods dont have return types
+
+Types of contructers:
+
+* Default contructers(Zero arguments)
+* Parameterized contructers(with n arguments)
+
+Default contructers:
+
+we can say a contructer which dont take any arguments 
+
+when object is created ,compiler performs two things 
+* allocating memory for object
+* calling appropriate contructer
+
+
+
+How methods are going to diff data members of individual objects?
+
+this => this is a variable which points to the obj through which the method is called
+
