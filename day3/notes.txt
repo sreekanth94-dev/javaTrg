@@ -3,3 +3,24 @@ Abstract Class:
 * syntax 'abstract class abc{}'
 * we can't create a obj from Abstract Class
 * it is used for inheritnce 
+
+
+static keyword
+
+static data member:
+
+only one copy of data is created per class and all the obj of a particular class shares static data,
+hence modification by one obj reflects others
+
+static methods:
+
+can be called without obj, i.e, we can call with class name
+can access only static data
+cannot access non-static data because ,static method will not receive 'this' reference
+
+
+Array:
+
+
+
+
