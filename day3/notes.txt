@@ -1,0 +1,5 @@
+Abstract Class:
+
+* syntax 'abstract class abc{}'
+* we can't create a obj from Abstract Class
+* it is used for inheritnce 
