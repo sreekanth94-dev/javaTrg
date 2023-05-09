@@ -24,3 +24,44 @@ Array:
 
 
 
+
+Exceptions:
+
+These are inenvitable,need to be handled
+
+exceptions are mainly classified as 
+* run time exceptions
+
+
+
+Run time exceptions:
+
+when this exceptions occurs process  will be terminated 
+unhandled exceptions leads to process terminated
+
+Type of exceptions:
+
+Arithmetic Operations
+CLass not found
+IO Exceptions
+
+
+Keywords to handle exceptions:
+
+try,catch,throw,throws,finally
+
+
+Try and Catch:
+
+* try contains a block of code which anticipates exceptions
+* one try block has be to followed by a catch block
+
+
+Threads:
+java has its own library
+
+Types of Threads:
+
+* class based threads or extended threads
+* interface based threadsor runnable
+
