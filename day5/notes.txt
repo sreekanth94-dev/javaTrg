@@ -1,0 +1,10 @@
+Day 5
+
+
+Collections:
+
+* A Set of libraries in terms of classes
+-> some types of collection in java
+* list
+* Queue
+* Tree
